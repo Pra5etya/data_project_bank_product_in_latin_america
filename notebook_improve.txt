@@ -3,3 +3,24 @@ address nan or 0.0 -> outside america latin
 
 code_prov -> delete
 customer_activity nan -> remove nan
+
+seniority_in_month -> use max for analysis
+
+histogram -> learn more about and how to analyze
+scatter plot -> learn more about and how to analyze
+z-score methode -> learn more about and how to analyze
+resample and interpolate -> learn more about and how to analyze
+
+
+reshape() -> learn more about and how to analyze
+
+Explanation: 
+================
+The key difference between reshape(-1, 1) and reshape(1, -1) is the shape of the resulting array. 
+reshape(-1, 1) results in an array with a single column and multiple rows (a column vector), 
+while reshape(1, -1) results in an array with a single row and multiple columns (a row vector).
+
+link: https://saturncloud.io/blog/understanding-the-differences-between-numpy-reshape1-1-and-reshape1-1/
+
+LIBRARY:
+scipy
