@@ -1,9 +1,3 @@
-address 1.0 -> inside america latin
-address nan or 0.0 -> outside america latin
-
-code_prov -> delete
-customer_activity nan -> remove nan
-
 seniority_in_month -> use max for analysis
 
 histogram -> learn more about and how to analyze
