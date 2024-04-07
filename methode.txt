@@ -1,0 +1,48 @@
+Metode 1: Bundle Discounts
+Dalam konteks produk bank, Anda bisa menawarkan paket berbagai produk dengan diskon, misalnya:
+
+Paket Emas:
+Saving Account
+Credit Card
+Pensions
+Harga paket: $1000
+Diskon: 15%
+
+
+Metode 2: Cross-Selling Packages
+Dalam metode ini, Anda bisa menawarkan produk-produk yang saling terkait untuk memberikan nilai tambah kepada pelanggan, misalnya:
+
+Paket Investasi:
+Long Term Deposits
+Short Term Deposits
+Jika pelanggan membuka Long Term Deposits, mereka mendapatkan bunga tambahan untuk Short Term Deposits.
+
+
+Metode 3: Upgrade Packages
+Anda dapat menawarkan paket yang memungkinkan pelanggan untuk meningkatkan produk dasar mereka dengan beberapa tambahan atau fitur premium dengan harga yang lebih murah, misalnya:
+
+Paket Platinum Credit Card:
+Credit Card
+Travel Insurance
+Concierge Service
+Harga paket upgrade: $500 per tahun
+
+
+Metode 4: Seasonal Bundles
+Dalam metode ini, Anda dapat menawarkan paket yang disesuaikan dengan musim atau peristiwa tertentu, misalnya:
+
+Paket Liburan:
+Saving Account
+Short Term Deposits
+Travel Insurance
+Harga paket: $200
+
+
+Metode 5: Experience Packages
+Dalam metode ini, produk bank dapat dikemas dengan pengalaman tambahan seperti kursus keuangan atau konsultasi investasi, misalnya:
+
+Paket Pendidikan Keuangan:
+Saving Account
+Medium Term Deposits
+Akses ke Seminar dan Konsultasi Keuangan
+Harga paket: Gratis untuk pemegang akun tertentu.

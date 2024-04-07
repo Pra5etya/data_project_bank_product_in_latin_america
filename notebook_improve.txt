@@ -1,8 +1,18 @@
 seniority_in_month -> use max for analysis
 
-histogram -> learn more about and how to analyze
+histogram -> learn more about and how to analyze (use kde=True, stat='density', avline = median of data, yscale = log)
+pada saat membuat histogram pastikan data memiliki setidaknya mean dan std, jika data lebih dari 100,000 maka gunakan log scale pada sumbu x
+
+
+
 scatter plot -> learn more about and how to analyze
+
+
+
 z-score methode -> learn more about and how to analyze
+
+
+
 resample and interpolate -> learn more about and how to analyze
 
 
