@@ -9,11 +9,12 @@
 ```
 
 ### Basic Packages
-1. pandas 
-2. numpy 
-3. matplotlib 
-4. python-dotenv 
-5. requests 
+1. pandas
+2. scipy
+3. matplotlib
+4. seaborn
+5. python-dotenv
+6. requests
 
 ### Modeling Packages
 1. statsmodels 
