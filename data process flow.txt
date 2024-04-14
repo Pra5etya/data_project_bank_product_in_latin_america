@@ -1,2 +1,0 @@
-sebelum melakukan visualisasi data putuskan terlebih dahulu tahun yang dipakai karena, 
-terlalu banyak duplikasi data untuk melakukan visualisasi data
