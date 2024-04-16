@@ -1,0 +1,13 @@
+saving -> #A6FF95
+long depo -> #16537e
+med depo -> #3d85c6
+short depo -> #9fc5e8
+cc -> #f1c232
+pensions -> #cc0000
+
+pie pallete
+===============
+individual -> #f6b26b
+vip -> #f1c232
+college_graduated -> #45818e
+other -> #6fa8dc
