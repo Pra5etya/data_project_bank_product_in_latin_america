@@ -16,6 +16,9 @@
 5. python-dotenv
 6. requests
 
+### Large Files
+1. dask[complete] / dask[dataframe]
+
 ### Modeling Packages
 1. statsmodels 
 2. scikit-learn
