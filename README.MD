@@ -17,7 +17,7 @@
 6. requests
 
 ### Large Files
-1. dask[complete] / dask[dataframe]
+1. dask[complete]
 2. graphviz
 
 ### Modeling Packages
