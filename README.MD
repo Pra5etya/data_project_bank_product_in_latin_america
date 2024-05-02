@@ -1,4 +1,4 @@
-# Latin America Bank Strategy For Banking Product✨
+# Latin America Bank Strategy For Banking Product 🏦
 
 ## Setup environment
 
@@ -18,7 +18,6 @@
 
 ### Large Files
 1. dask[complete]
-2. graphviz
 
 ### Modeling Packages
 1. statsmodels 
