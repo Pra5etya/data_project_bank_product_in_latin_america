@@ -18,6 +18,12 @@
 
 ### Large Files
 1. dask[complete]
+```
+pip check                                   # memeriksa konflik packages
+pip show dask                               # mmeriksa versi terpasang
+pip install --upgrade dask-expr             # harus kompatible dengan versi dask
+pip install --upgrade distributed tornado   # harus kompatible dengan versi dask
+```
 
 ### Modeling Packages
 1. statsmodels 
