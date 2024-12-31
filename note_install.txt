@@ -1,0 +1,55 @@
+cek channel:
+conda config --show channels
+conda config --add channels defaults
+
+penggunaan installasi paket menggunakan: -c conda-forge <package>
+
+1. Pustaka Data Science Modern
+    dask: Untuk komputasi paralel dan data frame besar.
+    pyarrow: Dukungan Apache Arrow (proses data in-memory) dan format file Parquet.
+    fastparquet: Alternatif untuk membaca/menulis file Parquet.
+    vaex: Library serupa Pandas untuk analisis data besar.
+    polars: DataFrame performa tinggi dengan fokus pada kecepatan.
+
+2. Pustaka Machine Learning dan AI
+    lightgbm: Gradient Boosting Framework.
+    xgboost: Gradient Boosted Trees.
+    catboost: Library untuk Gradient Boosting.
+    dask-ml: Integrasi Dask dengan scikit-learn.
+    pytorch: Framework deep learning (via conda-forge sering memiliki build yang lebih stabil untuk GPU tertentu).
+    tensorflow: Alternatif deep learning yang kompatibel untuk berbagai platform.
+
+3. Pustaka Statistik dan Optimasi
+    pymc3: Untuk probabilistic programming dan Bayesian analysis.
+    scipy: Beberapa versi modern lebih baik di conda-forge untuk kompatibilitas OpenBLAS.
+    cvxpy: Convex optimization library.
+    optuna: Framework untuk hyperparameter optimization.
+
+4. Visualisasi Data
+    plotly: Library untuk visualisasi interaktif.
+    altair: Deklaratif visualisasi berbasis grammar.
+    holoviews, bokeh, hvplot: Untuk visualisasi dataset besar yang interaktif.
+    cartopy: Visualisasi data geospasial (lebih lengkap di conda-forge).
+
+5. Format Data Modern
+    h5py: Untuk file HDF5.
+    netCDF4: Data multidimensi (digunakan dalam geospasial dan analisis iklim).
+    zarr: Alternatif untuk data array multidimensi terkompresi.
+    jsonschema: Validasi JSON dengan skema.
+
+6. Alat untuk Data Engineering dan Workflow
+    prefect: Library untuk orkestrasi workflow data.
+    kedro: Pipeline framework untuk machine learning.
+    papermill: Menjalankan dan memparameterisasi Jupyter Notebook.
+
+7. Alat Pendukung dan Optimasi Sistem
+    numba: Compiler untuk mempercepat Python dengan JIT.
+    joblib: Untuk paralelisasi ringan.
+    ray: Framework untuk paralelisasi dan distribusi tugas skala besar.
+    snakemake: Workflow management system berbasis Python.
+
+8. Geospasial dan Analisis Peta
+    geopandas: DataFrame dengan dukungan geometris.
+    shapely: Manipulasi data geometri.
+    fiona: Input/output data GIS.
+    rasterio: Untuk membaca dan menulis raster geospasial.
